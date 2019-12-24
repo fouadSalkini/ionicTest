@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tripnologies.testapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="CallNumber">
+        <param name="android-package" value="com.rohithvaranasi.callnumber.CFCallNumber" />
+    </feature>
+    <name>Test App</name>
+    <description>Test APP</description>
+    <author email="fouad@fouadsalkini.com" href="http://fouadsalkini.com/">Fouad Salkini</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" launch-external="yes" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="*" />
+    <allow-navigation href="http://*/*" />
+    <allow-navigation href="data:*" />
+    <allow-navigation href="*" />
+    <allow-navigation href="http://178.62.0.224/*" />
+    <allow-navigation href="http://192.168.1.100:8100" />
+    <allow-intent href="market:*" />
+    <icon density="ldpi" src="res/icon/android/ldpi.png" />
+    <icon density="mdpi" src="res/icon/android/mdpi.png" />
+    <icon density="hdpi" src="res/icon/android/hdpi.png" />
+    <icon density="xhdpi" src="res/icon/android/xhdpi.png" />
+    <icon density="xxhdpi" src="res/icon/android/xxhdpi.png" />
+    <icon density="xxxhdpi" src="res/icon/android/xxxhdpi.png" />
+    <splash density="port-ldpi" src="res/screen/android/splash-port-ldpi.png" />
+    <splash density="port-mdpi" src="res/screen/android/splash-port-mdpi.png" />
+    <splash density="port-hdpi" src="res/screen/android/splash-port-hdpi.png" />
+    <splash density="port-xhdpi" src="res/screen/android/splash-port-xhdpi.png" />
+    <splash density="port-xxhdpi" src="res/screen/android/splash-port-xxhdpi.png" />
+    <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <preference name="ScrollEnabled" value="false" />
+    <preference name="android-minSdkVersion" value="19" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="FadeSplashScreenDuration" value="1000" />
+    <preference name="SplashShowOnlyFirstTime" value="true" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="2000" />
+    <preference name="loadUrlTimeoutValue" value="70000" />
+    <preference name="YouTubeDataApiKey" value="AIzaSyArvonV-d5EGgMHHE797i8YIyxc5QEKbSI" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+</widget>

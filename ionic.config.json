@@ -1,0 +1,8 @@
+{
+  "name": "appLions",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}

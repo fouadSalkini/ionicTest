@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar>
+    <button menuToggle *ngIf="!entity">
+      <ion-icon name="menu"></ion-icon>
+    </button>
+
+    <ion-title *ngIf="entity">{{entity.name}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="inner-pages-bg">
+
+  <div *ngIf="entity">
+    <ion-list>
+      <ion-item >
+        <ion-icon color="primary" name="md-person" class="showmemberspadding"> </ion-icon>
+        <b>
+          {{entity.name}}
+        </b>
+
+      </ion-item>
+
+    </ion-list>
+
+  </div>
+
+</ion-content>
+<ion-footer no-border>
+  <ion-toolbar>
+
+  </ion-toolbar>
+
+</ion-footer>

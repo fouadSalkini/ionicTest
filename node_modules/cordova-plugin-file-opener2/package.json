@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-file-opener2@^2.0.19",
+        "scope": null,
+        "escapedName": "cordova-plugin-file-opener2",
+        "name": "cordova-plugin-file-opener2",
+        "rawSpec": "^2.0.19",
+        "spec": ">=2.0.19 <3.0.0",
+        "type": "range"
+      },
+      "/Users/macos/Documents/ionic/lionsd351"
+    ]
+  ],
+  "_from": "cordova-plugin-file-opener2@^2.0.19",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-file-opener2@2.2.1",
+  "_location": "/cordova-plugin-file-opener2",
+  "_nodeVersion": "8.16.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-file-opener2_2.2.1_1562595885032_0.6800651646701743"
+  },
+  "_npmUser": {
+    "name": "shnist",
+    "email": "aaron.jack.faber@gmail.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-file-opener2@^2.0.19",
+    "scope": null,
+    "escapedName": "cordova-plugin-file-opener2",
+    "name": "cordova-plugin-file-opener2",
+    "rawSpec": "^2.0.19",
+    "spec": ">=2.0.19 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-file-opener2/-/cordova-plugin-file-opener2-2.2.1.tgz",
+  "_shasum": "9e422bc5e215d8eca0338ed5cd357b64b027440b",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-file-opener2@^2.0.19",
+  "_where": "/Users/macos/Documents/ionic/lionsd351",
+  "author": {
+    "name": "pwlin05@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pwlin/cordova-plugin-file-opener2/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-file-opener2",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "A File Opener Plugin for Cordova. (The Original Version)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-yeN242U6T+TDlrJ5m00br+lAKsf2fHXn1u1TsDxB5fFUGINZUYLKthEctCMFkQUnURWk+Nh6tc+WtdQjY581Uw==",
+    "shasum": "9e422bc5e215d8eca0338ed5cd357b64b027440b",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-file-opener2/-/cordova-plugin-file-opener2-2.2.1.tgz",
+    "fileCount": 13,
+    "unpackedSize": 34162,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdI1ItCRA9TVsSAnZWagAAKHEP/1hP2+2l9aFAhFdieirk\nrA8OhFhzlHy3EWdmFa4i4k4wG3tkwhFSvAxeQi68D+WdFoeYHKOPAsRFEh5H\nvmgFQiOgM2OJh6TmW2DnW14UFd0G92km0URmMF2nPJ4ur5umEHKIMuvmPYuW\n0c6BVp9HNlZTCTGEZjfBOCI3j7CmCTaqhTmLWOam1xLbwcTHPrpIc5lbpq6m\nETS/FRD1VxXp3FuLSVi15Vh/gfU7qM4Clzz9ET+Nzm5bXShlzrRAo3SigniK\nr9tpBA41f1pFM1T8XyuAQm8Ynt2/LukeqF+Yg6OaTjvtCqROv41+G3U08g3s\nJloAjyzc7Z6MQ7pAF+tm6cD8UJ0Ymyqg/ypWWqeKSCtAObhJDaQED2lAv8YE\nqnrqpAv19i7aKxqbK5XAfsBBHGgvATD+K7fOng7x5xbFXCg6TBfQrIlijBMq\nLfcRrfMi76LHucXCR1kHLvz76VOwBAlgqNyxT0p3XWHALTi/K6JjVTFPabpV\nIskVkK6Ar4KK7VwbDDLfZDxvQWp4QJBIjy4U+kINUtejHKG0Dh2/JIBLZc2o\nPWfx30uhopdebOCLDqf8Wel/OUmrLLqKLPEU4CenPA03tO6RkvpFOsRuaFM5\nW2SYxDOXAs5yh4AEA3GKaRWJjzOl+lB17Lph1LNwDLl6F+eoTc/8czHoogM9\nZ8mM\r\n=AeVO\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": {
+    "cordova": ">=6.0.0"
+  },
+  "gitHead": "a29cea0750989bfbd2460618b53c4d023933bbfd",
+  "homepage": "https://github.com/pwlin/cordova-plugin-file-opener2#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "pwlin",
+      "email": "pwlin05@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-file-opener2",
+  "optionalDependencies": {},
+  "readme": "# A File Opener Plugin for Cordova (The Original Version)\r\n\r\n[![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-file-opener2.svg)](https://www.npmjs.com/package/cordova-plugin-file-opener2) [![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-file-opener2.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-file-opener2) [![Build Status](https://travis-ci.org/apache/cordova-plugin-file-opener2.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-file-opener2)\r\n\r\nThis plugin will open a file on your device file system with its default application.\r\n\r\n```js\r\ncordova.plugins.fileOpener2.open(\r\n    filePath,\r\n    fileMIMEType,\r\n    {\r\n        error : function(){ },\r\n        success : function(){ }\r\n    }\r\n);\r\n```\r\n\r\n## Installation\r\n\r\n```shell\r\n$ cordova plugin add cordova-plugin-file-opener2\r\n```\r\n\r\n### Optional variables\r\n\r\nThis plugin requires the Android support library v4. From release `2.1.0` the version of this can be set at installation. The minimum version is `24.1.0`. Default value is `27.+`. [Check out the latest version](https://developer.android.com/topic/libraries/support-library/revisions.html).\r\n\r\n```shell\r\n$ cordova plugin add cordova-plugin-file-opener2  --variable ANDROID_SUPPORT_V4_VERSION=\"27.+\"\r\n```\r\n\r\nIf you are using the `cordova-android-support-gradle-release` plugin it should match the value you have set there.\r\n\r\n## Requirements\r\n\r\nThe following platforms and versions are supported by the latest release:\r\n\r\n- Android 4.4+ / iOS 9+ / WP8 / Windows\r\n- Cordova CLI 7.0 or higher\r\n\r\nCordova CLI 6.0 is supported by 2.0.19, but there are a number of issues, particularly with Android builds (see [232](https://github.com/pwlin/cordova-plugin-file-opener2/issues/232) [203](https://github.com/pwlin/cordova-plugin-file-opener2/issues/203) [207](https://github.com/pwlin/cordova-plugin-file-opener2/issues/207)). Using the [cordova-android-support-gradle-release](https://github.com/dpa99c/cordova-android-support-gradle-release) plugin may help.\r\n\r\n## fileOpener2.open(filePath, mimeType, options)\r\n\r\nOpens a file\r\n\r\n### Supported Platforms\r\n\r\n- Android 4.4+\r\n- iOS 9+\r\n- Windows\r\n- WP8\r\n\r\n### Quick Examples\r\nOpen an APK install dialog:\r\n\r\n```javascript\r\ncordova.plugins.fileOpener2.open(\r\n    '/Downloads/gmail.apk',\r\n    'application/vnd.android.package-archive'\r\n);\r\n```\r\n\r\nOpen a PDF document with the default PDF reader and optional callback object:\r\n\r\n```js\r\ncordova.plugins.fileOpener2.open(\r\n    '/Download/starwars.pdf', // You can also use a Cordova-style file uri: cdvfile://localhost/persistent/Downloads/starwars.pdf\r\n    'application/pdf',\r\n    {\r\n        error : function(e) {\r\n            console.log('Error status: ' + e.status + ' - Error message: ' + e.message);\r\n        },\r\n        success : function () {\r\n            console.log('file opened successfully');\r\n        }\r\n    }\r\n);\r\n```\r\n\r\n### Market place installation\r\nInstall From Market: to install an APK from a market place, such as Google Play or the App Store, you can use an `<a>` tag in combination with the `market://` protocol:\r\n\r\n```html\r\n<a href=\"market://details?id=xxxx\" target=\"_system\">Install from Google Play</a>\r\n<a href=\"itms-apps://itunes.apple.com/app/my-app/idxxxxxxxx?mt=8\" target=\"_system\">Install from App Store</a>\r\n```\r\nor in code:\r\n\r\n```js\r\nwindow.open(\"[market:// or itms-apps:// link]\",\"_system\");\r\n```\r\n\r\n## fileOpener2.showOpenWithDialog(filePath, mimeType, options)\r\n\r\nOpens with system modal to open file with an already installed app.\r\n\r\n### Supported Platforms\r\n\r\n- Android 4.4+\r\n- iOS 9+\r\n\r\n### Quick Example\r\n\r\n```js\r\ncordova.plugins.fileOpener2.showOpenWithDialog(\r\n    '/Downloads/starwars.pdf', // You can also use a Cordova-style file uri: cdvfile://localhost/persistent/Downloads/starwars.pdf\r\n    'application/pdf',\r\n    {\r\n        error : function(e) {\r\n            console.log('Error status: ' + e.status + ' - Error message: ' + e.message);\r\n        },\r\n        success : function () {\r\n            console.log('file opened successfully');\r\n        }\r\n    }\r\n);\r\n```\r\n\r\n## fileOpener2.uninstall(packageId, callbackContext)\r\n\r\nUninstall a package with its ID\r\n\r\n### Supported Platforms\r\n\r\n- Android 4.4+\r\n\r\n### Quick Example\r\n```js\r\ncordova.plugins.fileOpener2.uninstall('com.zynga.FarmVille2CountryEscape', {\r\n    error : function(e) {\r\n        console.log('Error status: ' + e.status + ' - Error message: ' + e.message);\r\n    },\r\n    success : function() {\r\n        console.log('Uninstall intent activity started.');\r\n    }\r\n});\r\n```\r\n\r\n## fileOpener2.appIsInstalled(packageId, callbackContext)\r\n\r\nCheck if an app is already installed.\r\n\r\n### Supported Platforms\r\n\r\n- Android 4.4+\r\n\r\n### Quick Example\r\n```javascript\r\ncordova.plugins.fileOpener2.appIsInstalled('com.adobe.reader', {\r\n    success : function(res) {\r\n        if (res.status === 0) {\r\n            console.log('Adobe Reader is not installed.');\r\n        } else {\r\n            console.log('Adobe Reader is installed.')\r\n        }\r\n    }\r\n});\r\n```\r\n---\r\n\r\n## Android APK installation limitation\r\n\r\nThe following limitations apply when opening an APK file for installation:\r\n- On Android 8+, your application must have the `ACTION_INSTALL_PACKAGE` permission. You can add it by adding this to your app's `config.xml` file:\r\n```xml\r\n<platform name=\"android\">\r\n    <config-file parent=\"/manifest\" target=\"AndroidManifest.xml\" xmlns:android=\"http://schemas.android.com/apk/res/android\">\r\n        <uses-permission android:name=\"android.permission.REQUEST_INSTALL_PACKAGES\" />\r\n    </config-file>\r\n</platform>\r\n```\r\n\r\n- Before Android 7, you can only install APKs from the \"external\" partition. For example, you can install from `cordova.file.externalDataDirectory`, but **not** from `cordova.file.dataDirectory`. Android 7+ does not have this limitation.\r\n\r\n---\r\n\r\n## SD card limitation on Android\r\n\r\nIt is not always possible to open a file from the SD Card using this plugin on Android. This is because the underlying  Android library used [does not support serving files from secondary external storage devices](https://stackoverflow.com/questions/40318116/fileprovider-and-secondary-external-storage). Whether or not your the SD card is treated as a secondary external device depends on your particular phone's set up.\r\n\r\n---\r\n\r\n## Notes\r\n\r\n- For properly opening _any_ file, you must already have a suitable reader for that particular file type installed on your device. Otherwise this will not work.\r\n\r\n- [It is reported](https://github.com/pwlin/cordova-plugin-file-opener2/issues/2#issuecomment-41295793) that in iOS, you might need to remove `<preference name=\"iosPersistentFileLocation\" value=\"Library\" />` from your `config.xml`\r\n\r\n- If you are wondering what MIME-type should you pass as the second argument to `open` function, [here is a list of all known MIME-types](http://svn.apache.org/viewvc/httpd/httpd/trunk/docs/conf/mime.types?view=co)\r\n\r\n\r\n---\r\n\r\n\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwlin/cordova-plugin-file-opener2.git"
+  },
+  "version": "2.2.1"
+}

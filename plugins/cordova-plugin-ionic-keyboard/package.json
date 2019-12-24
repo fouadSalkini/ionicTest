@@ -1,0 +1,171 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ionic-keyboard@^2.0.5",
+        "scope": null,
+        "escapedName": "cordova-plugin-ionic-keyboard",
+        "name": "cordova-plugin-ionic-keyboard",
+        "rawSpec": "^2.0.5",
+        "spec": ">=2.0.5 <3.0.0",
+        "type": "range"
+      },
+      "/Users/macos/Documents/ionic/lionsd351"
+    ]
+  ],
+  "_from": "cordova-plugin-ionic-keyboard@^2.0.5",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-ionic-keyboard@2.2.0",
+  "_location": "/cordova-plugin-ionic-keyboard",
+  "_nodeVersion": "10.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-ionic-keyboard_2.2.0_1567507169933_0.9361569632513989"
+  },
+  "_npmUser": {
+    "name": "jcesarmobile",
+    "email": "jcesarmobile@gmail.com"
+  },
+  "_npmVersion": "6.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ionic-keyboard@^2.0.5",
+    "scope": null,
+    "escapedName": "cordova-plugin-ionic-keyboard",
+    "name": "cordova-plugin-ionic-keyboard",
+    "rawSpec": "^2.0.5",
+    "spec": ">=2.0.5 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ionic-keyboard/-/cordova-plugin-ionic-keyboard-2.2.0.tgz",
+  "_shasum": "53ba9ccd5e765165446a094cfe042a2ddd87d81d",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ionic-keyboard@^2.0.5",
+  "_where": "/Users/macos/Documents/ionic/lionsd351",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/cordova-plugin-ionic-keyboard/issues"
+  },
+  "dependencies": {},
+  "description": "Ionic Keyboard Plugin",
+  "devDependencies": {
+    "np": "^5.0.3",
+    "sync-cordova-xml": "^0.4.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-yDUG+9ieKVRitq5mGlNxjaZh/MgEhFFIgTIPhqSbUaQ8UuZbawy5mhJAVClqY97q8/rcQtL6dCDa7x2sEtCLcA==",
+    "shasum": "53ba9ccd5e765165446a094cfe042a2ddd87d81d",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ionic-keyboard/-/cordova-plugin-ionic-keyboard-2.2.0.tgz",
+    "fileCount": 9,
+    "unpackedSize": 37253,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdbkLiCRA9TVsSAnZWagAAcVwP/iIJBSa09dQplFfiTFva\nKuHg2bLIk4cNryQZMRUiKN5g1AvgKmmK1pa6x4RFtBFqDmT2f7heDz9D5oPL\n5E3B3otiaCCHkakaZW4QrHiD5wiW2eRZzIYaFB+cGo1K0wBNHv7rSiVdyR1+\n/41Ux1rjClTb9QWOK0Wl6Nti6sIZhsHLE94PpO9YgT4M8msDqIN48CoLXDFI\ndzO7CjXvPfSt8K4NCL3DVXCsaAuyghSP1Gq+2Ki7MbQcBT/0UlL3iZt0JKX/\nGHuv9plZWQlSUzM/JFtcRcIE47eKkDGDkILWUhqKkc90/qeuVl57luqai5eT\nEYz+WZ+5bMWK+yLKwH+ao1Rmlhjv1DxInkzs6AJrtjh3XMoO24D7qISiFDOd\nOqe9xWzf80BKAGgzoIw0bv49LpBLOYWRhulHQcOUTwEFkF1yQ7ZQaycpakZX\n2yGbiEDdCYU2dhTRREjKYIhmCMEQ0gooVHXKbgGfHJftU7nf/sqTpopAlpmi\nMYI1FEafICMofUCCzQd1JRvGKtEWxDJxJZOF0oHjXoi1gTa6Wx/nOL4Z/vz9\nHx51ay7Rl4ih+Jr0IGnlWwSMrJtPB9JllT3tPEqnRkaEplc96I0w47t17iAa\ncFs/2VHe9Jcorgs5hPXdSMnKZ2wDmnjpimqhidJuvvYewmDFK9UP06vgdukd\n9jI2\r\n=r4wF\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "147409df732a8e49eaf359e8f3039dc86ebcf8c7",
+  "homepage": "https://github.com/ionic-team/cordova-plugin-ionic-keyboard#readme",
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "adamdbradley",
+      "email": "hi+adam@ionicframework.com"
+    },
+    {
+      "name": "brandyscarney",
+      "email": "brandy@ionic.io"
+    },
+    {
+      "name": "camwiegert",
+      "email": "cam@camwiegert.com"
+    },
+    {
+      "name": "drifty",
+      "email": "max@drifty.com"
+    },
+    {
+      "name": "dwieeb",
+      "email": "dwieeb@gmail.com"
+    },
+    {
+      "name": "elylucas",
+      "email": "ely@meta-tek.net"
+    },
+    {
+      "name": "giodimiliaionic",
+      "email": "giovanni@ionic.io"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    },
+    {
+      "name": "jcesarmobile",
+      "email": "jcesarmobile@gmail.com"
+    },
+    {
+      "name": "jthoms1",
+      "email": "jthoms1@gmail.com"
+    },
+    {
+      "name": "kensodemann",
+      "email": "ken.sodemann@gmail.com"
+    },
+    {
+      "name": "larsmikkelsen",
+      "email": "lars@ionic.io"
+    },
+    {
+      "name": "liamdebeasi",
+      "email": "liam@debeasi.com"
+    },
+    {
+      "name": "lukaswm",
+      "email": "luke@ionic.io"
+    },
+    {
+      "name": "manucorporat",
+      "email": "manu.mtza@gmail.com"
+    },
+    {
+      "name": "maxlynch",
+      "email": "max@ionic.io"
+    },
+    {
+      "name": "mhartington",
+      "email": "mikehartington@gmail.com"
+    },
+    {
+      "name": "nhyatt",
+      "email": "nick@ionic.io"
+    },
+    {
+      "name": "perrygovier",
+      "email": "perry@ionic.io"
+    }
+  ],
+  "name": "cordova-plugin-ionic-keyboard",
+  "optionalDependencies": {},
+  "readme": "# cordova-plugin-ionic-keyboard\n\nThis plugin has been designed to work seamlessly with `cordova-plugin-ionic-webview`, so make sure you have it installed first:\n\n - https://github.com/ionic-team/cordova-plugin-ionic-webview\n - https://ionicframework.com/docs/wkwebview/\n\n## Installation\n\n```\ncordova plugin add cordova-plugin-ionic-keyboard --save\n```\n\n## Preferences\n\n### KeyboardResize (for iOS only)\n\n> Boolean (true by default)\n\n#### Possible values\n- `true`: Showing/hiding the keyboard will trigger some kind of resizing of the app (see KeyboardResizeMode)\n- `false`: Web will not be resized when the keyboard shows up.\n\n```xml\n<preference name=\"KeyboardResize\" value=\"true\" />\n```\n\n### KeyboardResizeMode (for iOS only)\n\n> String ('native' by default)\n\n#### Possible values\n\n- `native`: The whole native webview will be resized when the keyboard shows/hides, it will affect the `vh` relative unit.\n- `body`: Only the html `<body>` element will be resized. Relative units are not affected, because the viewport does not change.\n- `ionic`: Only the html `ion-app` element will be resized. Only for ionic apps.\n\n```xml\n<preference name=\"KeyboardResizeMode\" value=\"native\" />\n```\n\n### KeyboardStyle (for iOS only)\n\n> String ('light' by default)\n\n#### Possible values\n\n- `light`\n- `dark`\n\n```xml\n<preference name=\"KeyboardStyle\" value=\"dark\" />\n```\n\n### HideKeyboardFormAccessoryBar (for iOS only)\n\n> Boolean (true by default)\n\n#### Possible values\n- `true`: hides the keyboard accessory bar.\n- `false`: shows the keyboard accessory bar.\n\n```xml\n<preference name=\"HideKeyboardFormAccessoryBar\" value=\"false\" />\n```\n\n### resizeOnFullScreen (for Android only)\n\nThere is an Android bug that prevents the keyboard from resizing the WebView when the app is in full screen (i.e. if StatusBar plugin is used to hide the StatusBar). This setting, if set to true, add a workaround that resizes the WebView even when the app is in full screen.\n\n> Boolean (false by default)\n\n#### Possible values\n- `false`: doesn't resize the WebView when the app is in full screen.\n- `true`: resizes the WebView when the app is in full screen.\n\n\n```xml\n<preference name=\"resizeOnFullScreen\" value=\"true\" />\n```\n\n\n## Methods\n\n### Keyboard.hideFormAccessoryBar (for iOS only)\n\n> Hide the keyboard toolbar.\n\nSet to true to hide the additional toolbar that is on top of the keyboard. This toolbar features the Prev, Next, and Done buttons.\n\n```js\nKeyboard.hideFormAccessoryBar(value, successCallback);\n```\n\n#### Quick Example\n\n```js\nKeyboard.hideFormAccessoryBar(true);\nKeyboard.hideFormAccessoryBar(false);\nKeyboard.hideFormAccessoryBar(null, (currentValue) => { console.log(currentValue); });\n```\n\n### Keyboard.hide\n\n> Hide the keyboard\n\nCall this method to hide the keyboard\n\n```js\nKeyboard.hide();\n```\n\n### Keyboard.show (for Android only)\n\n> Show the keyboard\n\nCall this method to show the keyboard.\n\n```js\nKeyboard.show();\n```\n\n### Keyboard.setResizeMode (for iOS only)\n\n> Programmatically set the resize mode\n\nCall the method with parameter to set the resize mode.\n\n```js\n// Possible values are the same as for 'KeyboardResizeMode' preference\nKeyboard.setResizeMode('native');\nKeyboard.setResizeMode('body');\nKeyboard.setResizeMode('ionic');\n```\n\n### Keyboard.setKeyboardStyle (for iOS only)\n\n> Programmatically set the keyboard style\n\n```js\n// Possible values are the same as for 'KeyboardStyle' preference\nKeyboard.setKeyboardStyle('light'); // <- default\nKeyboard.setKeyboardStyle('dark');\n```\n\n### Keyboard.disableScroll (for iOS only)\n\n> Programmatically enable or disable the WebView scroll\n\n```js\nKeyboard.disableScroll(true); // <- default\nKeyboard.disableScroll(false);\n```\n\n\n## Properties\n\n### Keyboard.isVisible\n\n> Determine if the keyboard is visible.\n\nRead this property to determine if the keyboard is visible.\n\n```js\nif (Keyboard.isVisible) {\n    // do something\n}\n```\n\n## Events\n\n### keyboardDidHide\n\n> This event is fired when the keyboard is fully closed.\n\nAttach handler to this event to be able to receive notification when keyboard is closed.\n\n```js\nwindow.addEventListener('keyboardDidHide', () => {\n    // Describe your logic which will be run each time keyboard is closed.\n});\n```\n\n### keyboardDidShow\n\n> This event is fired when the keyboard is fully open.\n\nAttach handler to this event to be able to receive notification when keyboard is opened.\n\n```js\nwindow.addEventListener('keyboardDidShow', (event) => {\n    // Describe your logic which will be run each time when keyboard is about to be shown.\n    console.log(event.keyboardHeight);\n});\n```\n\n### keyboardWillShow\n\n> This event fires before keyboard will be shown.\n\nAttach handler to this event to be able to receive notification when keyboard is about to be shown on the screen.\n\n```js\nwindow.addEventListener('keyboardWillShow', (event) => {\n    // Describe your logic which will be run each time when keyboard is about to be shown.\n    console.log(event.keyboardHeight);\n});\n```\n\n### keyboardWillHide\n\n> This event fires before keyboard will be closed.\n\nAttach handler to this event to be able to receive notification when keyboard is about to be closed.\n\n```js\nwindow.addEventListener('keyboardWillHide', () => {\n    // Describe your logic which will be run each time when keyboard is about to be closed.\n});\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/cordova-plugin-ionic-keyboard.git"
+  },
+  "scripts": {
+    "deploy": "np --yolo",
+    "sync_plugin_xml": "sync-cordova-xml package.json plugin.xml --output=plugin.xml",
+    "version": "npm run sync_plugin_xml && git add plugin.xml"
+  },
+  "version": "2.2.0"
+}

@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle  >
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{brand}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="inner-pages-bg">
+  <div *ngIf="totalItems">
+    <ion-list>
+      <button ion-item *ngFor="let entity of entities" (click)="showEntity($event,entity.id)">
+        <ion-icon color="primary" name="car"></ion-icon>
+
+        {{entity.name}}
+      </button>
+    </ion-list>
+    
+    <p *ngIf="page< pagination" text-center>
+      <button ion-button color="primary" (click)="goToNextPage($event,nextPage)">
+          
+        <ion-icon name="md-add-circle"></ion-icon>
+      </button>
+    </p>
+  </div>
+  <div *ngIf="!totalItems">
+    <p style="color: #FF0000">
+      There are no results that match your search.
+    </p>
+  </div>
+
+
+</ion-content>
+<div class="sticky-deco-top"></div>

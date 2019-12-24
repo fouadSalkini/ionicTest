@@ -1,0 +1,16 @@
+{
+    "ios": {
+        "debug": {
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ],
+            "developmentTeam": "V76K8U2LFH"
+        },
+        "release": {
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ],
+            "developmentTeam": "V76K8U2LFH"
+        }
+    }
+}
